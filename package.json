@@ -1,0 +1,22 @@
+{
+  "name": "pnotify",
+  "version": "1.2.0",
+  "description": "jquery pnotify plugin",
+  "main": "jquery.pnotify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midaxo/pnotify.git"
+  },
+  "keywords": [
+    "pnotify"
+  ],
+  "author": "maksim.luzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midaxo/pnotify/issues"
+  },
+  "homepage": "https://github.com/Midaxo/pnotify#readme"
+}
