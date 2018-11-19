@@ -1,6 +1,9 @@
 {
     "name": "pnotify",
     "version": "3.0.0",
+    "publishConfig": {
+        "registry": "https://midaxo.jfrog.io/midaxo/api/npm/npm/"
+    },
     "main": "dist/pnotify.js",
     "repository": {
         "type": "git",
